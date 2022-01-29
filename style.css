@@ -71,12 +71,12 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+    margin-top: 250%;
+  margin-right: 750%;
   flex-direction: column;
 }
 
 .download-btn{
-  margin-top: 250%;
-  margin-right: 750%;
   position: relative;
   background: #4285F4;
   color: #fff;
